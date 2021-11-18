@@ -1,5 +1,5 @@
 # Huawei Mobile Services starter project for Flutter
-Welcome to Huawei's workshop at [Junction 2021](https://www.junction2021.com/) !
+Welcome to Huawei's workshop at [Junction 2021](https://www.junction2021.com/challenges/huawei) !
 
 You have a bunch of fresh ideas and you aspire to make them possible with the help of the [Huawei Mobile Services](https://developer.huawei.com/consumer/en/hms) (HMS). We feel your enthusiasm - that's why we prepared this Flutter starter project that will allow you to start coding *immediately* and avoid time consuming configuration steps. The project is designed for Android devices only.
 
@@ -8,8 +8,8 @@ You have a bunch of fresh ideas and you aspire to make them possible with the he
 ### I'm in!
 
 1. fork/clone this project
-2. visit the workshop Discord channel [Junction 21 Hackathon Huawei](https://discord.gg/PmdzQbWu) 
-3. unzip the file into the project's *android* directory
+2. visit the workshop Discord channel [Junction 21 Hackathon Huawei](https://discord.gg/8ZSdWKmzDS) 
+3. unzip the serect file into the project's *android* directory
 4. start coding!
 
 
@@ -42,9 +42,11 @@ There are solutions.
 
 ### Starter projects for other platforms
 
-- for native Android: https://github.com/Huawei-Nordic
+- for Native Android: https://github.com/Huawei-Nordic/Junction2021_native
 
 - for React Native: https://github.com/Huawei-Nordic/junction2021_reactnative
+
+- for Unity: https://github.com/DimitriUK/Junction-21-Huawei-Example
 
   
 
